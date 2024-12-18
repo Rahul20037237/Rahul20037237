@@ -27,7 +27,7 @@ I am a **Data Science enthusiast** with a strong foundation in **Statistics**, *
 ## Projects
 
 ### [Optimal Path Finding Visualization](https://github.com/Rahul20037237/Optimial_path_finding_viz)
-This project focuses on visualizing optimal pathfinding algorithms like BFS, DFS, and A* for solving maze navigation problems. It offers an interactive UI to visualize different algorithms and their performance.
+This project focuses on visualizing optimal pathfinding algorithms like BFS, DFS, and A* for solving maze navigation problems. It offers an visualize different algorithms and their performance.
 
 ### [Build Your Own Neural Network](https://github.com/Rahul20037237/Build_your_own_NN)
 A comprehensive guide on building neural networks from scratch. This project demonstrates how to create a multi-layer perceptron (MLP) and covers the essential concepts of backpropagation, cost functions, and gradient descent.
