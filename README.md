@@ -7,7 +7,6 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Numba" src="https://img.shields.io/badge/-Numba-9E2A2F?style=flat-square&logo=numba&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
