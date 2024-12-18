@@ -1,4 +1,4 @@
-# Rohith's GitHub Profile
+# Rahul's GitHub Profile
 
 Welcome to my GitHub profile! I'm a Data Science enthusiast with a strong foundation in Data Analytics, Machine Learning, Deep Learning, and Web Development. I specialize in developing custom models, AI-driven solutions, and contributing to various open-source projects. Below are some of the projects I have worked on:
 
