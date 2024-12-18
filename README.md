@@ -12,7 +12,7 @@
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="GAN" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="NetworkX" src="https://img.shields.io/badge/-NetworkX-FFB833?style=flat-square&logo=networkx&logoColor=white" />
+  <img alt="StreamLit" src="https://img.shields.io/badge/-NetworkX-FFB833?style=flat-square&logo=networkx&logoColor=white" />
   <img alt="LLM's" src="https://img.shields.io/badge/-Google_Cloud_Platform-1A73E8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
@@ -27,18 +27,17 @@ This project focuses on visualizing optimal pathfinding algorithms like BFS, DFS
 A comprehensive guide on building neural networks from scratch. This project demonstrates how to create a multi-layer perceptron (MLP) and covers the essential concepts of backpropagation, cost functions, and gradient descent.
 
 ### [DSA and Problem Solving](https://github.com/Rahul20037237/DSA_and_problem_solving)
-A collection of algorithms and data structure solutions. This repository includes popular algorithms such as Dijkstra’s, Prim’s, and Kruskal’s, as well as problem-solving techniques for competitive programming.
+A collection of algorithms and data structure solutions. This repository includes popular algorithms  as well as problem-solving techniques for competitive programming.
 
-### [DATA](https://github.com/Rahul20037237/DATA)
-This repository includes datasets, data cleaning scripts, and machine learning models related to data analysis, especially in the context of various domains like healthcare, finance, and social networks.
+<h3>My GitHub contributions summary</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 ## About Me
 
 I recently graduated with a B.Tech in Computer Science, specializing in Data Analytics, from VIT. I am passionate about AI, Machine Learning, and Data Science, with a focus on building efficient models and algorithms for real-world problems. I am also highly skilled in:
 
-- **Languages:** Python, R, Java
-- **Technologies:** TensorFlow, Keras, PyTorch
-- **Tools:** Jupyter, Git, VSCode, pycharm,Tabelau , powerBI
 - **Domains:** Data Science, Deep Learning, Natural Language Processing (NLP), Computer Vision
 
 ## Let's Connect!
