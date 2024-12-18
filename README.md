@@ -56,6 +56,7 @@ I am also highly skilled in:
 
 Feel free to reach out to me through my social links below:  
 - [LinkedIn](https://www.linkedin.com/in/)
+- [Hackerrank](https://www.hackerrank.com/profile/rahul_20bcd7237)
 
 ---
 
