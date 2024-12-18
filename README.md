@@ -31,7 +31,6 @@ A collection of algorithms and data structure solutions. This repository include
 
 <h3>My GitHub contributions summary</h3>
 
-[![![GitHub Streak](https://streak-stats.demolab.com?user=Rahul20037237&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul20037237&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 ## About Me
