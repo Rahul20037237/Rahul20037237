@@ -45,7 +45,7 @@ A collection of algorithms and data structure solutions. This repository include
 
 ## About Me
 
-I recently graduated with a **B.Tech** in **Computer Science**, specializing in **Data Analytics**, from **VIT**. I am passionate about **AI**, **Machine Learning**, and **Data Science**, with a focus on building efficient models and algorithms for real-world problems.  
+I recently graduated with a **B.Tech** in **Computer Science**, specializing in **Data Analytics**, from **Vellore Institue of Technology**. I am passionate about **AI**, **Machine Learning**, and **Data Science**, with a focus on building efficient models and algorithms for real-world problems.  
 I am also highly skilled in:
 
 - **Domains:** Data Science, Deep Learning, Natural Language Processing (NLP), Computer Vision
