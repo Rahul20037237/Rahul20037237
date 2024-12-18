@@ -33,7 +33,7 @@ A collection of algorithms and data structure solutions. This repository include
 
 [![![GitHub Streak](https://streak-stats.demolab.com?user=Rahul20037237&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul72372003&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul20037237&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 ## About Me
 
 I recently graduated with a B.Tech in Computer Science, specializing in Data Analytics, from VIT. I am passionate about AI, Machine Learning, and Data Science, with a focus on building efficient models and algorithms for real-world problems. I am also highly skilled in:
