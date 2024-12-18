@@ -16,7 +16,7 @@
   <img alt="LLM's" src="https://img.shields.io/badge/-Google_Cloud_Platform-1A73E8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
-Welcome to my GitHub profile! I'm a Data Science enthusiast with a strong foundation in Data Analytics, Machine Learning, Deep Learning, and Web Development. I specialize in developing custom models, AI-driven solutions, and contributing to various open-source projects. Below are some of the projects I have worked on:
+Welcome to my GitHub profile! I'm a Data Science enthusiast with a strong foundation in Statstics,Data Analytics, Machine Learning, Deep Learning. I specialize in developing custom models, AI-driven solutions, and contributing to various open-source projects. Below are some of the projects I have worked on:
 
 ## Projects
 
