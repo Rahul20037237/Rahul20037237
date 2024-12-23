@@ -26,6 +26,12 @@ I am a **Data Science enthusiast** with a strong foundation in **Statistics**, *
 
 ## Projects
 
+### [ViT Transformwer from scratch](https://github.com/Rahul20037237/Build_your_own_NN/blob/main/ViT__Transformer.ipynb)
+Implementation of Vision Transformer (ViT) from scratch for tasks like image classification and landmark detection
+
+### [TFIDF with ensemble learning](https://github.com/Rahul20037237/Build_your_own_NN/blob/main/TFIDF.ipynb)
+TF-IDF feature extraction combined with ensemble learning techniques for efficient text classification.
+
 ### [Optimal Path Finding Visualization](https://github.com/Rahul20037237/Optimial_path_finding_viz)
 This project focuses on visualizing optimal pathfinding algorithms like BFS, DFS, and A* for solving maze navigation problems. It offers an visualize different algorithms and their performance.
 
